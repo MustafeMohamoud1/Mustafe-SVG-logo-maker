@@ -1,0 +1,1 @@
+//inquirer to ask all the questions for the svg options
