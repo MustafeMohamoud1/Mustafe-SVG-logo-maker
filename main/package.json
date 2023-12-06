@@ -1,0 +1,13 @@
+{
+    "name": "svg-logomaker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": { 
+      "jest": "^27.4.0",
+      "inquirer": "^8.2.4"
+    }
+  }
