@@ -1,7 +1,7 @@
 //inquirer to ask all the questions for the svg options
 const inquirer = require('inquirer');
 const { writeFile } = require('fs/promises');
-const {Circle, Triangle, Square} = require("./lib/shapes");
+const {Circle, Triangle, Square} = require("./shapes");
 const SVG = require('./svg');
 
 class CLI {
