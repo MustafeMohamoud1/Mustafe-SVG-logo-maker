@@ -38,3 +38,6 @@ Select a color.
 Enter text for the logo.
 Select text color.
 The generated logo will be saved as an SVG file in the project directory.
+
+Link to tutorial:
+https://drive.google.com/file/d/1rCjDaIU3sHi-H5TFihZIgNe_jODbfVOH/view
